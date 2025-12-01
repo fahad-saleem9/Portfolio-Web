@@ -50,10 +50,10 @@ import movierecLogo from './assets/work_logo/movie_rec.png';
 import taskremLogo from './assets/work_logo/task_rem.png';
 // import npmLogo from './assets/work_logo/npm.png';
 import webverLogo from './assets/work_logo/web_dig.png';
-import TaskLogo from './assets/work_logo/Task.png';
+import TaskLogo from './assets/work_logo/Task.PNG';
 import imagesearchLogo from './assets/work_logo/image_search.png';
 import removebgLogo from './assets/work_logo/remove_bg.png';
-import DashboardLogo from './assets/work_logo/Dashboard.png';
+import DashboardLogo from './assets/work_logo/Dashboard.PNG';
 
 
 export const SkillsInfo = [
